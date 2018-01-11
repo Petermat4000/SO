@@ -1,3 +1,0 @@
-git rm -r --cached .gitignore
-git commit -m "Removed folder from repository"
-git push origin master
