@@ -1,0 +1,2 @@
+gcc matyjek_pisarz2.c -o matyjek_pisarz2.o
+gcc matyjek_czytelnik2.c -o matyjek_czytelnik2.o

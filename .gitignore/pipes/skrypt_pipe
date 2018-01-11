@@ -1,0 +1,11 @@
+gcc matyjek_pipe1.c -o matyjek.o
+gcc matyjek_pipe2.c -o matyjek2.o
+gcc matyjek_pipe3.c -o matyjek3.o
+
+./matyjek2.o &
+./matyjek3.o &
+./matyjek.o
+
+rm matyjek.o
+rm matyjek2.o
+rm matyjek3.o

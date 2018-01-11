@@ -1,0 +1,4 @@
+gcc matyjek_prog1.c -o matyjek_prog1.o
+gcc matyjek_prog2.c -o matyjek_prog2.o
+gcc matyjek_prog3.c -o matyjek_prog3.o
+gcc matyjek_projekt.c -o matyjek.o
