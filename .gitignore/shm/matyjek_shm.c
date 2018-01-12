@@ -8,6 +8,7 @@
 #include<sys/shm.h>
 #include <sys/stat.h>
 #include<fcntl.h>
+//bal bla bla
 
 static struct sembuf buf;
 
